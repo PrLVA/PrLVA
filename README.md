@@ -21,6 +21,8 @@ El **Archivo de Respaldo Cypherpunk** es una infraestructura digital segura para
 ## 🔗 Recursos Útiles  
 🔹 [Guía para la privacidad](https://privacit.github.io/)  
 🔹 [Apps alternativas para privacidad](https://libredirect.github.io/)  
+🔹 [Drive con APK](https://drive.proton.me/urls/3WFBZ7CMY4#DLxMq2cOkCMM) 
+
 
 ---
 ## 📜 Manifiesto Cypherpunk  
