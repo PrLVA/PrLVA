@@ -21,9 +21,7 @@ El **Archivo de Respaldo Cypherpunk** es una infraestructura digital segura para
 ## 🔗 Recursos Útiles  
 🔹 [Guía para la privacidad](https://privacit.github.io/)  
 🔹 [Apps alternativas para privacidad](https://libredirect.github.io/)  
-🔹 [Drive con APK](https://drive.proton.me/urls/3WFBZ7CMY4#DLxMq2cOkCMM) 
-
-
+🔹 [Drive con APK](https://drive.proton.me/urls/3WFBZ7CMY4#DLxMq2cOkCMM)  
 ---
 ## 📜 Manifiesto Cypherpunk  
 **Escrito por Eric Hughes (1993)**  
@@ -36,6 +34,6 @@ El **Archivo de Respaldo Cypherpunk** es una infraestructura digital segura para
 
 📎 [Texto completo](https://www.activism.net/cypherpunk/manifesto.html)  
 
+💾 **"Tu privacidad es tu poder. Protege, cifra y resiste."** 
 
-
-💾 **"Tu privacidad es tu poder. Protege, cifra y resiste."**  
+ [Donaciones en BCH](https://cointr.ee/prlva) - Apoya el proyecto con Bitcoin Cash.  
