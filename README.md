@@ -37,4 +37,4 @@ El **Archivo de Respaldo Cypherpunk** es una infraestructura digital segura para
 
 💾 **"Tu privacidad es tu poder. Protege, cifra y resiste."** 
 
-<img src="https://cryptologos.cc/logos/bitcoin-cash-bch-logo.png?v=029" width="25"> [Donaciones en BCH](https://cointr.ee/prlva) - Apoya el proyecto con Bitcoin Cash.
+<img src="https://cryptologos.cc/logos/bitcoin-cash-bch-logo.png?v=040" width="25"> [Donaciones en BCH](https://cointr.ee/prlva) - Apoya el proyecto con Bitcoin Cash.
