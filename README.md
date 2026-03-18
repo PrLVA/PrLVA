@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🟢 >>>__INTERFACE_v2.0.1
 
-<!--
-**PrLVA/PrLVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+# INITIALIZING SYSTEM...
+# LOADING_CYPHERPUNK_PROTOCOLS... [OK]
+# BYPASSING_THE_SIMULATION...      [OK]
+[||||||||||||||||||||      ] 85% - Code Integrity
+[||||||||||||              ] 50% - Simulation Decryption
+[||||||||||||||||||||||||||] 100% - Coffee Consumption
+[ DECRYPTING_REALITY... ] 
+████████████████████████████████████████ 100%
+> ENCRYPTION: Enabled (AES-256-GCM)
+> ACCESS:     Restricted_Root
+STATUS: UNTETHERED
